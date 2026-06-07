@@ -1,13 +1,13 @@
 {
-  "name": "AFK Bot",
+  "name": "Teamtoxic",
   "bot-account": {
     "username": "Technoblade",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "slobos13.aternos.me",
-    "port": 29195,
+    "ip": "CloudSmp-u9Dr.aternos",
+    "port": 60613,
     "version": "1.21.1"
   },
   "position": {
